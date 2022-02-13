@@ -1,3 +1,2 @@
 # BetterWynnSpells-MC1.12.2
-Currently In Dev<br>
-現在開発中・・・
+Moved to new repo https://github.com/WrelfAsterihimmeil/BetterWynnSpells-MC1.12.2
